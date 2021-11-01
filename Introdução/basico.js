@@ -1,2 +1,2 @@
-var a = 'Teste TS!';
+var a = 'Teste TS (WEB)!';
 console.log(a);
